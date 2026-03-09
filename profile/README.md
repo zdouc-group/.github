@@ -55,6 +55,7 @@ To facilitate onboarding to new students, we provide a number of SOPs (standard 
 and repositories. Some of these are only accessible to organization members.
 
 
-| Name                                                    | Description                               |
-|---------------------------------------------------------|-------------------------------------------|
-| [Onboarding](https://github.com/zdouc-group/onboarding) | Collection of onboarding docs and scripts |
+| Name                                                          | Description                               |
+|---------------------------------------------------------------|-------------------------------------------|
+| [Onboarding](https://github.com/zdouc-group/onboarding)       | Collection of onboarding docs and scripts |
+| [modern_python](https://github.com/zdouc-group/modern_python) | Template for Python projects              |
