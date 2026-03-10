@@ -1,9 +1,9 @@
-<img src="./zdouc_groupv1.svg" style="max-width: 50vw;"/>
+<img src="./zdouc_logo_v1.svg" style="width: 50vw"/>
 
 
 **Welcome to the Zdouc Group GitHub Organization!**
 
-The Zdouc research group at the University of Vienna develops and applies algorithms 
+The Zdouc research lab at the University of Vienna develops and applies algorithms 
 for (meta)genome and metabolome mining of naturally occurring, specialized molecules called 
 natural products. 
 
@@ -27,7 +27,7 @@ Contents
 
 ## Documentation
 
-Here, we provide documents describing the collaborations within the Zdouc research group.
+Here, we provide documents describing the collaborations within the Zdouc research lab.
 These guidelines apply to all repositories governed by this GitHub Organization.
 
 - [📜Code of Conduct](../CODE_OF_CONDUCT.md): guidelines for interacting with the projects.
