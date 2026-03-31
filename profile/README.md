@@ -20,12 +20,12 @@ Together with our collaborators, we are creating state-of-the-art computational 
 
 Contents
 -----------------
-- [Work Philosophy](#documentation)
+- [Work Philosophy](#work-philosophy)
 - [Repository Overview](#repository-overview)
 - [Affiliated Organizations](#affiliated-organizations)
 - [Onboarding](#onboarding-docs)
 
-## Documentation
+## Work Philosophy
 
 Here, we provide documents describing the collaborations within the Zdouc research lab.
 These guidelines apply to all repositories governed by this GitHub Organization.
